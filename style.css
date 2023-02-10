@@ -13,12 +13,12 @@
 /* ===== 변수 구간 ===== */
 
 :root {
-  --color-main: #FF4200;
-  --color-sub: #00A200;
-  --color-dark: #2F4858;
-  --color-emph: #F10F5F;
+  --color-main: #AF80FC;
+  --color-sub: #FF9BA6;
+  --color-dark: #783DDA;
+  --color-emph: #3E44C8;
   --color-text: #281812;
-  --color-lighter: #DC9C86;
+  --color-lighter: #C6AFEC;
   --color-light-bd: #FFE6D6;
   --color-light-bg: #FFF5ED;
 

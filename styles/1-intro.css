@@ -1,5 +1,67 @@
+.intro {
+  position: relative;
+  background-image: url('../images/intro-bg.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.intro__type {
+  display: flex;
+  justify-content: center;
+  font-family: var(--font-code);
+  font-weight: bold;
+  font-size: 2.8em;
+  color: white;
+  gap: 0.32em;
+}
+
+.intro__type .underscore {
+  animation-name: blink;
+  animation-duration: 350ms;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+.intro__dark {
+  position: absolute;
+  top: 0; bottom: 0;
+  left: 0; right: 0;
+  background-color: rgba(0, 0, 0, 0.60);
+}
+
+
 @media (max-width: 768px) {
+  .intro {
+    height: 100vh;
+  }
+  .intro__type {
+    margin-top: 36vh;
+    flex-direction: column;
+    text-align: left;
+  }
 }
 
 @media (min-width: 769px) {
+  .intro {
+    height: 500px;
+  }
+  .intro__type {
+    margin-top: 172px;
+    align-items: center;
+  }
+  .intro__type span {
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 0.25em;
+    margin-right: 0.3em;
+  }
 }
+
+@keyframes blink {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+
+
+
