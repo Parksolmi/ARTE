@@ -3,6 +3,7 @@
   background-image: url('../images/intro-bg.png');
   background-size: cover;
   background-position: center;
+  overflow: hidden;
 }
 
 .intro__type {
@@ -49,6 +50,7 @@
   background-repeat: repeat no-repeat;
   background-position: 0 bottom;
   transform-origin: center bottom;
+  
 }
 .wave1 {
   background-image: url(../images/wave1.png);
