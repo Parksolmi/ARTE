@@ -4,7 +4,7 @@
 
 <!-- 아래에 색상값과 d값을 넣으세요! -->
 <path 
-	style="fill: #FFFFFF;"
+	style="fill: #783DDA;"
 	d="M6,36v-3h36v3H6z M6,25.5v-3h36v3H6z M6,15v-3h36v3H6z"
 />
 </svg>
