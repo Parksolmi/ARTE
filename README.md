@@ -12,6 +12,7 @@
 ### [ 관람순서 ]
 <img src="https://user-images.githubusercontent.com/69065439/219134879-ba3254e7-aaf4-4425-a75c-5782a74bfd9f.png" width="600"></img>
 ### [ 로그인 ]
+<img src="https://user-images.githubusercontent.com/69065439/219134981-2744e685-82fc-4ef3-9335-774ddea0c3dc.png" width="600"></img>
 <img src="https://user-images.githubusercontent.com/69065439/219135053-6cb7fc87-7de1-40a1-a20a-c67dd361f7c7.png" width="600"></img>
 
 
