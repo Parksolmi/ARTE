@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/69065439/219132191-973df18d-7b54-4bfe-9a22-a2762236d78f.png"></img>
 ### [ 아르떼는 ]
 <img src="https://user-images.githubusercontent.com/69065439/219134654-b5c54041-e3a1-436d-91fc-c93f6ce1ba6a.png"></img>
-### [ 인기전시|추천전시 ]
+### [ 인기전시 | 추천전시 ]
 <img src="https://user-images.githubusercontent.com/69065439/219134879-ba3254e7-aaf4-4425-a75c-5782a74bfd9f.png"></img>
 ### [ 관람순서 ]
 <img src="https://user-images.githubusercontent.com/69065439/219134879-ba3254e7-aaf4-4425-a75c-5782a74bfd9f.png"></img>
