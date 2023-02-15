@@ -8,7 +8,7 @@
 ### [ 아르떼는 ]
 <img src="https://user-images.githubusercontent.com/69065439/219134654-b5c54041-e3a1-436d-91fc-c93f6ce1ba6a.png" width="600"></img>
 ### [ 인기전시 | 추천전시 ]
-<img src="https://user-images.githubusercontent.com/69065439/219134879-ba3254e7-aaf4-4425-a75c-5782a74bfd9f.png" width="600"></img>
+<img src="https://user-images.githubusercontent.com/69065439/219138918-70b7c05f-a32b-4aa2-8f73-cb56a71ae127.png" width="600"></img>
 ### [ 관람순서 ]
 <img src="https://user-images.githubusercontent.com/69065439/219134879-ba3254e7-aaf4-4425-a75c-5782a74bfd9f.png" width="600"></img>
 ### [ 로그인 ]
