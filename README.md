@@ -16,3 +16,15 @@
 
 
 ## 2. 모바일
+### [ intro ]
+<img src="https://user-images.githubusercontent.com/69065439/219136698-4cde18ff-b0aa-4c11-ac13-e53f78c0e0b2.png"></img>
+### [ header ]
+<img src="https://user-images.githubusercontent.com/69065439/219136724-8a5cdf54-416b-4987-9ca1-c953a5bc8ac0.png"></img>
+### [ 아르떼는 ]
+<img src="https://user-images.githubusercontent.com/69065439/219136730-ed5b5681-c784-4a0b-9d83-d84f9e674859.png"></img>
+### [ 인기전시 | 추천전시 ]
+<img src="https://user-images.githubusercontent.com/69065439/219136735-29bcbad5-d5c0-41e1-9b56-b29790b61c56.png"></img>
+### [ 관람순서 ]
+<img src="https://user-images.githubusercontent.com/69065439/219136740-48e00b31-835d-45d0-80d8-f5f62bed7eae.png"></img>
+### [ 로그인 ]
+<img src="https://user-images.githubusercontent.com/69065439/219136743-c8d9a9b0-44b5-4ff2-ad43-b0c79f4292c3.png"></img>
