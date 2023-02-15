@@ -15,7 +15,7 @@
 
 @media (min-width: 769px) {
   main {
-    /* display: gird;
-    grid-template-columns: 1fr 1fr; */
+    display: grid;
+    grid-template-columns: 1fr 1fr;
   }
 }

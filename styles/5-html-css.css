@@ -15,7 +15,7 @@
 .exhibit__title {
   font-size: var(--font-size-subtitle);
 }
-._popular .exhibit__title em { color: #F16528; }
+._popular .exhibit__title em { color: #2965F1; }
 ._custom .exhibit__title em { color: #2965F1; }
 
 .exhibit__spec {
@@ -24,7 +24,7 @@
 .exhibit__spec dd {
   margin-right: 1.2em;
   font-size: var(--font-size-larger);
-  color: var(--color-lighter);
+  color: var(--color-emph);
 }
 .exhibit__spec dd::before {
   content: '';
@@ -51,6 +51,9 @@
 }
 
 .exhibit__poster {
+  border-radius: 8px;
+  border: 1px solid grey;
+
   animation-name: poster-hover;
   animation-duration: 800ms;
   animation-timing-function: ease-in-out;
@@ -93,9 +96,10 @@
 }
 
 @media (min-width: 769px) {
-  #popular {
+  #popular{
     border-right: 4px solid var(--color-light-bg);
   }
+
   .exhibit__poster {
     width: 144px;
   }
