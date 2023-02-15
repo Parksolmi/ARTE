@@ -17,7 +17,7 @@
 
 ## 2. 모바일
 ### [ intro ]
-<img src="https://user-images.githubusercontent.com/69065439/219136698-4cde18ff-b0aa-4c11-ac13-e53f78c0e0b2.png"></img>
+<img src="https://user-images.githubusercontent.com/69065439/219136698-4cde18ff-b0aa-4c11-ac13-e53f78c0e0b2.png" width="200"></img>
 ### [ header ]
 <img src="https://user-images.githubusercontent.com/69065439/219136724-8a5cdf54-416b-4987-9ca1-c953a5bc8ac0.png"></img>
 ### [ 아르떼는 ]
