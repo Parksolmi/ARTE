@@ -1,6 +1,8 @@
 # ARTE
 제대로 파는 HTML&amp;CSS(Yalco) 파이널 프로젝트 > HTML&CSS를 사용하여 반응형 웹페이지 제작하기 <br>
-: ARTE(아르떼) - 나만의 전시 추천 서비스
+: ARTE(아르떼) - 나만의 전시 추천 서비스 <br>
+완성본 > https://parksolmi.github.io/ARTE/
+
 
 ## 1. 데스크탑 
 ### [ intro ]
