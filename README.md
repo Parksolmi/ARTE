@@ -1,7 +1,7 @@
 # ARTE
 제대로 파는 HTML&amp;CSS(Yalco) 파이널 프로젝트 > HTML&CSS를 사용하여 반응형 웹페이지 제작하기 <br>
 : 기존에 기획 및 디자인 해 놓은 "ARTE(아르떼) - 나만의 전시 추천 서비스"를 반응형 웹 페이지로 재구상하였음. <br>
-기존 모바일 디자인 프로토타입 > https://www.figma.com/proto/4k1ygYNM46nYpTp8YVg6a5/%EB%AA%A8%EC%9D%B8%EB%94%94_%EC%8B%A0%EB%B0%95%ED%95%98%EC%A1%B0_%EB%94%94%EC%9E%90%EC%9D%B8?type=design&node-id=207-1842&t=eDBY6ayalAeSL2gJ-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=207%3A1842&show-proto-sidebar=1 <br>
+기존 모바일 디자인 프로토타입 > https://www.figma.com/proto/4k1ygYNM46nYpTp8YVg6a5/%EB%AA%A8%EC%9D%B8%EB%94%94_%EC%8B%A0%EB%B0%95%ED%95%98%EC%A1%B0_%EB%94%94%EC%9E%90%EC%9D%B8?type=design&node-id=473-2311&t=eDBY6ayalAeSL2gJ-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=473%3A2311&show-proto-sidebar=1 <br>
 완성본 > https://parksolmi.github.io/ARTE/
 
 
